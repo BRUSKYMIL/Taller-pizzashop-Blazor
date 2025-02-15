@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29F85A53-A43B-4B5F-8C11-4FC62CDF19D6}|BlazingPizza.Server\\BlazingPizza.Server.csproj|c:\\users\\luism\\datos\\visual_studio\\interfaces\\maui(.net)\\blazor\\pizzeria\\src\\blazingpizza.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F85A53-A43B-4B5F-8C11-4FC62CDF19D6}|BlazingPizza.Server\\BlazingPizza.Server.csproj|solutionrelative:blazingpizza.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F85A53-A43B-4B5F-8C11-4FC62CDF19D6}|BlazingPizza.Server\\BlazingPizza.Server.csproj|c:\\users\\luism\\datos\\visual_studio\\interfaces\\maui(.net)\\blazor\\pizzeria\\src\\blazingpizza.server\\pizzaapiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F85A53-A43B-4B5F-8C11-4FC62CDF19D6}|BlazingPizza.Server\\BlazingPizza.Server.csproj|solutionrelative:blazingpizza.server\\pizzaapiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F85A53-A43B-4B5F-8C11-4FC62CDF19D6}|BlazingPizza.Server\\BlazingPizza.Server.csproj|c:\\users\\luism\\datos\\visual_studio\\interfaces\\maui(.net)\\blazor\\pizzeria\\src\\blazingpizza.server\\pizzastorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F85A53-A43B-4B5F-8C11-4FC62CDF19D6}|BlazingPizza.Server\\BlazingPizza.Server.csproj|solutionrelative:blazingpizza.server\\pizzastorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F85A53-A43B-4B5F-8C11-4FC62CDF19D6}|BlazingPizza.Server\\BlazingPizza.Server.csproj|c:\\users\\luism\\datos\\visual_studio\\interfaces\\maui(.net)\\blazor\\pizzeria\\src\\blazingpizza.server\\pizzastoreuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F85A53-A43B-4B5F-8C11-4FC62CDF19D6}|BlazingPizza.Server\\BlazingPizza.Server.csproj|solutionrelative:blazingpizza.server\\pizzastoreuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|c:\\users\\luism\\datos\\visual_studio\\interfaces\\maui(.net)\\blazor\\pizzeria\\src\\blazingpizza.client\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|solutionrelative:blazingpizza.client\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|c:\\users\\luism\\datos\\visual_studio\\interfaces\\maui(.net)\\blazor\\pizzeria\\src\\blazingpizza.client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|solutionrelative:blazingpizza.client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|c:\\users\\luism\\datos\\visual_studio\\interfaces\\maui(.net)\\blazor\\pizzeria\\src\\blazingpizza.client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|solutionrelative:blazingpizza.client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|c:\\users\\luism\\datos\\visual_studio\\interfaces\\maui(.net)\\blazor\\pizzeria\\src\\blazingpizza.client\\wwwroot\\service-worker.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|solutionrelative:blazingpizza.client\\wwwroot\\service-worker.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|c:\\users\\luism\\datos\\visual_studio\\interfaces\\maui(.net)\\blazor\\pizzeria\\src\\blazingpizza.client\\pages\\authentication.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|solutionrelative:blazingpizza.client\\pages\\authentication.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|c:\\users\\luism\\datos\\visual_studio\\interfaces\\maui(.net)\\blazor\\pizzeria\\src\\blazingpizza.client\\pages\\orderdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|solutionrelative:blazingpizza.client\\pages\\orderdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|c:\\users\\luism\\datos\\visual_studio\\interfaces\\maui(.net)\\blazor\\pizzeria\\src\\blazingpizza.client\\pages\\checkout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|solutionrelative:blazingpizza.client\\pages\\checkout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|c:\\users\\luism\\datos\\visual_studio\\interfaces\\maui(.net)\\blazor\\pizzeria\\src\\blazingpizza.client\\pages\\myorders.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|solutionrelative:blazingpizza.client\\pages\\myorders.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\BlazingPizza.Server\\Program.cs",
+              "RelativeDocumentMoniker": "BlazingPizza.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\BlazingPizza.Server\\Program.cs",
+              "RelativeToolTip": "BlazingPizza.Server\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T22:33:35.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PizzaApiExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\BlazingPizza.Server\\PizzaApiExtensions.cs",
+              "RelativeDocumentMoniker": "BlazingPizza.Server\\PizzaApiExtensions.cs",
+              "ToolTip": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\BlazingPizza.Server\\PizzaApiExtensions.cs",
+              "RelativeToolTip": "BlazingPizza.Server\\PizzaApiExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T22:33:33.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PizzaStoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\BlazingPizza.Server\\PizzaStoreContext.cs",
+              "RelativeDocumentMoniker": "BlazingPizza.Server\\PizzaStoreContext.cs",
+              "ToolTip": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\BlazingPizza.Server\\PizzaStoreContext.cs",
+              "RelativeToolTip": "BlazingPizza.Server\\PizzaStoreContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA7wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T22:33:26.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PizzaStoreUser.cs",
+              "DocumentMoniker": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\BlazingPizza.Server\\PizzaStoreUser.cs",
+              "RelativeDocumentMoniker": "BlazingPizza.Server\\PizzaStoreUser.cs",
+              "ToolTip": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\BlazingPizza.Server\\PizzaStoreUser.cs",
+              "RelativeToolTip": "BlazingPizza.Server\\PizzaStoreUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T22:33:24.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "service-worker.js",
+              "DocumentMoniker": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\BlazingPizza.Client\\wwwroot\\service-worker.js",
+              "RelativeDocumentMoniker": "BlazingPizza.Client\\wwwroot\\service-worker.js",
+              "ToolTip": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\BlazingPizza.Client\\wwwroot\\service-worker.js",
+              "RelativeToolTip": "BlazingPizza.Client\\wwwroot\\service-worker.js",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-15T22:12:03.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\BlazingPizza.Client\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BlazingPizza.Client\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\BlazingPizza.Client\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BlazingPizza.Client\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAALICAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-15T22:05:55.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\BlazingPizza.Client\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "BlazingPizza.Client\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\BlazingPizza.Client\\wwwroot\\index.html",
+              "RelativeToolTip": "BlazingPizza.Client\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-15T22:05:49.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderDetails.razor",
+              "DocumentMoniker": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\BlazingPizza.Client\\Pages\\OrderDetails.razor",
+              "RelativeDocumentMoniker": "BlazingPizza.Client\\Pages\\OrderDetails.razor",
+              "ToolTip": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\BlazingPizza.Client\\Pages\\OrderDetails.razor",
+              "RelativeToolTip": "BlazingPizza.Client\\Pages\\OrderDetails.razor",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAowGAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T21:30:15.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MyOrders.razor",
+              "DocumentMoniker": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\BlazingPizza.Client\\Pages\\MyOrders.razor",
+              "RelativeDocumentMoniker": "BlazingPizza.Client\\Pages\\MyOrders.razor",
+              "ToolTip": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\BlazingPizza.Client\\Pages\\MyOrders.razor",
+              "RelativeToolTip": "BlazingPizza.Client\\Pages\\MyOrders.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T21:30:10.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Checkout.razor",
+              "DocumentMoniker": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\BlazingPizza.Client\\Pages\\Checkout.razor",
+              "RelativeDocumentMoniker": "BlazingPizza.Client\\Pages\\Checkout.razor",
+              "ToolTip": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\BlazingPizza.Client\\Pages\\Checkout.razor",
+              "RelativeToolTip": "BlazingPizza.Client\\Pages\\Checkout.razor",
+              "ViewState": "AgIAACgAAAAAAAAAAAAowEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T21:28:03.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\BlazingPizza.Client\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "BlazingPizza.Client\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\BlazingPizza.Client\\Pages\\Index.razor",
+              "RelativeToolTip": "BlazingPizza.Client\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T21:17:01.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Authentication.razor",
+              "DocumentMoniker": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\BlazingPizza.Client\\Pages\\Authentication.razor",
+              "RelativeDocumentMoniker": "BlazingPizza.Client\\Pages\\Authentication.razor",
+              "ToolTip": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\BlazingPizza.Client\\Pages\\Authentication.razor",
+              "RelativeToolTip": "BlazingPizza.Client\\Pages\\Authentication.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T21:16:55.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

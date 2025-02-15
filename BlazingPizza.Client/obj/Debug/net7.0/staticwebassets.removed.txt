@@ -1,0 +1,6 @@
+C:\Users\luism\Datos\Visual_Studio\Interfaces\MAUI(.NET)\Blazor\Pizzeria\src\BlazingPizza.Client\wwwroot\img\pizzas_luis\bomba.jpeg
+C:\Users\luism\Datos\Visual_Studio\Interfaces\MAUI(.NET)\Blazor\Pizzeria\src\BlazingPizza.Client\wwwroot\img\pizzas_luis\elmo.gif
+C:\Users\luism\Datos\Visual_Studio\Interfaces\MAUI(.NET)\Blazor\Pizzeria\src\BlazingPizza.Client\wwwroot\img\pizzas_luis\humana.jpeg
+C:\Users\luism\Datos\Visual_Studio\Interfaces\MAUI(.NET)\Blazor\Pizzeria\src\BlazingPizza.Client\wwwroot\img\pizzas_luis\kilometrica.jpg
+C:\Users\luism\Datos\Visual_Studio\Interfaces\MAUI(.NET)\Blazor\Pizzeria\src\BlazingPizza.Client\wwwroot\img\pizzas_luis\nutella.jpg
+C:\Users\luism\Datos\Visual_Studio\Interfaces\MAUI(.NET)\Blazor\Pizzeria\src\BlazingPizza.Client\wwwroot\img\pizzas_luis\precongelada.jpg
