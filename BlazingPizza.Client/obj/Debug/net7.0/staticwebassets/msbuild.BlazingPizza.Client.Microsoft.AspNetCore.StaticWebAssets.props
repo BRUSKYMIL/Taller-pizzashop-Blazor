@@ -210,8 +210,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>chlla7ueva</Fingerprint>
-      <Integrity>AHpzx5wrSvisHl+r5q3tL0twsRnQA0RQHJ2tRkRwyNI=</Integrity>
+      <Fingerprint>ttwocojqut</Fingerprint>
+      <Integrity>MViXQsNZa0oalAlioRYpJkqo+eradiw8kCYuZJgq8+g=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</OriginalItemSpec>
@@ -251,24 +251,6 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\icon-512.png'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\logo.svg'))">
-      <SourceType>Package</SourceType>
-      <SourceId>BlazingPizza.Client</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>/</BasePath>
-      <RelativePath>img/logo.svg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>xdpn0472bf</Fingerprint>
-      <Integrity>u5/n/qxN+3n3BK0EeQO9TwVCB0m3NhWTp3kF2n3vENQ=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\logo.svg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\pizza-slice.svg'))">
       <SourceType>Package</SourceType>
@@ -432,95 +414,95 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\pizzas\salad.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\pizzas_luis\bomba.svg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\pizzas_luis\bomba.jpeg'))">
       <SourceType>Package</SourceType>
       <SourceId>BlazingPizza.Client</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>/</BasePath>
-      <RelativePath>img/pizzas_luis/bomba.svg</RelativePath>
+      <RelativePath>img/pizzas_luis/bomba.jpeg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>wx30o33lhb</Fingerprint>
-      <Integrity>DHhTh20Sl0GzY6XQo6cbof2s2+da22x8eupGm3nVTIs=</Integrity>
+      <Fingerprint>h7awtfsiu6</Fingerprint>
+      <Integrity>U+vFKT+vP2T7UjAIdUdY/UhHQDnM91xraTrUilKtyC0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\pizzas_luis\bomba.svg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\pizzas_luis\bomba.jpeg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\pizzas_luis\kilometrica.svg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\pizzas_luis\kilometrica.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>BlazingPizza.Client</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>/</BasePath>
-      <RelativePath>img/pizzas_luis/kilometrica.svg</RelativePath>
+      <RelativePath>img/pizzas_luis/kilometrica.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>6vfvbi9q28</Fingerprint>
-      <Integrity>EuVbacjn19c0MB+bWCs5/xNVw0ZDYGCiZmvQJs7623I=</Integrity>
+      <Fingerprint>z1lpdwntwc</Fingerprint>
+      <Integrity>KWyUaX6ZWVKbp5FU0ZRasGZ/etAePKXtdnipJFHLqUQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\pizzas_luis\kilometrica.svg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\pizzas_luis\kilometrica.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\pizzas_luis\nutella.svg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\pizzas_luis\nutella.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>BlazingPizza.Client</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>/</BasePath>
-      <RelativePath>img/pizzas_luis/nutella.svg</RelativePath>
+      <RelativePath>img/pizzas_luis/nutella.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>2yllytof0r</Fingerprint>
-      <Integrity>pmdJo91krxfBJvldHtzPkNJVzWiV9qXTlRcgi6IV2xs=</Integrity>
+      <Fingerprint>10zd8q5xb0</Fingerprint>
+      <Integrity>j83HMlaImd+2dCz1fSubjxqiGnL3ty7ciIu+9n8fPow=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\pizzas_luis\nutella.svg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\pizzas_luis\nutella.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\pizzas_luis\pizza_humana.svg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\pizzas_luis\pizza_humana.jpeg'))">
       <SourceType>Package</SourceType>
       <SourceId>BlazingPizza.Client</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>/</BasePath>
-      <RelativePath>img/pizzas_luis/pizza_humana.svg</RelativePath>
+      <RelativePath>img/pizzas_luis/pizza_humana.jpeg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>m2182sct4y</Fingerprint>
-      <Integrity>khaPLmWac8j8W+itSqz9ULYmhMWHFAm4t90STSfd2cw=</Integrity>
+      <Fingerprint>6czciom6yw</Fingerprint>
+      <Integrity>GjAHlZx7vf6TQK1Hn7CWlN8BmTVIVtgiQ0F0CuXWZzQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\pizzas_luis\pizza_humana.svg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\pizzas_luis\pizza_humana.jpeg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\pizzas_luis\precongelada.svg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\pizzas_luis\precongelada.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>BlazingPizza.Client</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>/</BasePath>
-      <RelativePath>img/pizzas_luis/precongelada.svg</RelativePath>
+      <RelativePath>img/pizzas_luis/precongelada.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>wklqrncevt</Fingerprint>
-      <Integrity>QBlVxVlV+Wrmzixlu+7UzNAJUYBJ1bys11NQXV4Q1CM=</Integrity>
+      <Fingerprint>l0opy0wr3i</Fingerprint>
+      <Integrity>1Wdn6n/OIoo2grg+F0RNfmV1Z6YIWDmQfPjVJO/Np78=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\pizzas_luis\precongelada.svg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\pizzas_luis\precongelada.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\user.svg'))">
       <SourceType>Package</SourceType>

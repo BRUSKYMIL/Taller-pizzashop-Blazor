@@ -61,10 +61,6 @@
       "PackagePath": "staticwebassets\\img\\icon-512.png"
     },
     {
-      "Id": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\BlazingPizza.Client\\wwwroot\\img\\logo.svg",
-      "PackagePath": "staticwebassets\\img\\logo.svg"
-    },
-    {
       "Id": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\BlazingPizza.Client\\wwwroot\\img\\pizza-slice.svg",
       "PackagePath": "staticwebassets\\img\\pizza-slice.svg"
     },
@@ -101,24 +97,24 @@
       "PackagePath": "staticwebassets\\img\\pizzas\\salad.jpg"
     },
     {
-      "Id": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\BlazingPizza.Client\\wwwroot\\img\\pizzas_luis\\bomba.svg",
-      "PackagePath": "staticwebassets\\img\\pizzas_luis\\bomba.svg"
+      "Id": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\BlazingPizza.Client\\wwwroot\\img\\pizzas_luis\\bomba.jpeg",
+      "PackagePath": "staticwebassets\\img\\pizzas_luis\\bomba.jpeg"
     },
     {
-      "Id": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\BlazingPizza.Client\\wwwroot\\img\\pizzas_luis\\kilometrica.svg",
-      "PackagePath": "staticwebassets\\img\\pizzas_luis\\kilometrica.svg"
+      "Id": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\BlazingPizza.Client\\wwwroot\\img\\pizzas_luis\\kilometrica.jpg",
+      "PackagePath": "staticwebassets\\img\\pizzas_luis\\kilometrica.jpg"
     },
     {
-      "Id": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\BlazingPizza.Client\\wwwroot\\img\\pizzas_luis\\nutella.svg",
-      "PackagePath": "staticwebassets\\img\\pizzas_luis\\nutella.svg"
+      "Id": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\BlazingPizza.Client\\wwwroot\\img\\pizzas_luis\\nutella.jpg",
+      "PackagePath": "staticwebassets\\img\\pizzas_luis\\nutella.jpg"
     },
     {
-      "Id": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\BlazingPizza.Client\\wwwroot\\img\\pizzas_luis\\pizza_humana.svg",
-      "PackagePath": "staticwebassets\\img\\pizzas_luis\\pizza_humana.svg"
+      "Id": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\BlazingPizza.Client\\wwwroot\\img\\pizzas_luis\\pizza_humana.jpeg",
+      "PackagePath": "staticwebassets\\img\\pizzas_luis\\pizza_humana.jpeg"
     },
     {
-      "Id": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\BlazingPizza.Client\\wwwroot\\img\\pizzas_luis\\precongelada.svg",
-      "PackagePath": "staticwebassets\\img\\pizzas_luis\\precongelada.svg"
+      "Id": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\BlazingPizza.Client\\wwwroot\\img\\pizzas_luis\\precongelada.jpg",
+      "PackagePath": "staticwebassets\\img\\pizzas_luis\\precongelada.jpg"
     },
     {
       "Id": "C:\\Users\\luism\\Datos\\Visual_Studio\\Interfaces\\MAUI(.NET)\\Blazor\\Pizzeria\\src\\BlazingPizza.Client\\wwwroot\\img\\user.svg",

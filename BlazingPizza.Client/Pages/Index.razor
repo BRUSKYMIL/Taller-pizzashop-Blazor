@@ -1,20 +1,24 @@
-﻿@page "/"
-@inject HttpClient HttpClient
-@inject OrderState OrderState
-@inject NavigationManager NavigationManager
-@inject IJSRuntime JS
+﻿@page "/"  // Define la ruta de la página principal
+@inject HttpClient HttpClient  // Permite hacer solicitudes HTTP al backend
+@inject OrderState OrderState  // Maneja el estado global del pedido
+@inject NavigationManager NavigationManager  // Permite la navegación dentro de la aplicación Blazor
+@inject IJSRuntime JS  // Permite la ejecución de funciones JavaScript desde Blazor
 
+<!-- Contenedor principal de la página -->
 <div class="main">
     <ul class="pizza-cards">
-        @if (specials is not null)
+        @if (specials is not null) // Verifica si hay pizzas especiales disponibles
         {
-            @foreach (var special in specials)
+            @foreach (var special in specials) // Recorre la lista de pizzas y las muestra en la página
             {
-                <li @onclick="@(() => OrderState.ShowConfigurePizzaDialog(special))" style="background-image: url('@special.ImageUrl')">
+                <li @onclick="@(() => OrderState.ShowConfigurePizzaDialog(special))"
+                    style="background-image: url('@special.ImageUrl')">
+                    <!-- Establece la imagen de fondo -->
+
                     <div class="pizza-info">
-                        <span class="title">@special.Name</span>
-                        @special.Description
-                        <span class="price">@special.GetFormattedBasePrice()</span>
+                        <span class="title">@special.Name</span>  <!-- Nombre de la pizza -->
+                        @special.Description  <!-- Descripción breve de la pizza -->
+                        <span class="price">@special.GetFormattedBasePrice()</span>  <!-- Precio de la pizza -->
                     </div>
                 </li>
             }
@@ -22,32 +26,36 @@
     </ul>
 </div>
 
+<!-- Barra lateral donde se muestra el contenido del pedido -->
 <div class="sidebar">
-    @if (Order.Pizzas.Any())
+    @if (Order.Pizzas.Any()) // Si el usuario ha agregado pizzas al pedido, se muestra el resumen
     {
         <div class="order-contents">
-            <h2>Your order</h2>
-
-            @foreach (var configuredPizza in Order.Pizzas)
+            <h2>Your order</h2> <!-- Título de la sección del pedido -->
+            @foreach (var configuredPizza in Order.Pizzas) // Muestra cada pizza agregada al pedido
             {
-                <ConfiguredPizzaItem Pizza="configuredPizza" OnRemoved="@(() => RemovePizza(configuredPizza))" />
+                <ConfiguredPizzaItem Pizza="configuredPizza"
+                                     OnRemoved="@(() => RemovePizza(configuredPizza))" />
             }
         </div>
     }
-    else
+    else // Si no hay pizzas en el pedido, se muestra un mensaje indicando que está vacío
     {
         <div class="empty-cart">Choose a pizza<br>to get started</div>
     }
 
+    <!-- Sección con el total del pedido y botón para continuar al pago -->
     <div class="order-total @(Order.Pizzas.Any() ? "" : "hidden")">
         Total:
-        <span class="total-price">@Order.GetFormattedTotalPrice()</span>
+        <span class="total-price">@Order.GetFormattedTotalPrice()</span>  <!-- Muestra el precio total del pedido -->
+        <!-- Botón para ir al checkout, deshabilitado si no hay pizzas en el carrito -->
         <a href="checkout" class="@(Order.Pizzas.Count == 0 ? "btn btn-warning disabled" : "btn btn-warning")">
             Order >
         </a>
     </div>
 </div>
 
+<!-- Diálogo de personalización de pizzas -->
 <TemplatedDialog Show="OrderState.ShowingConfigureDialog">
     <ConfigurePizzaDialog Pizza="OrderState.ConfiguringPizza"
                           OnCancel="OrderState.CancelConfigurePizzaDialog"
@@ -55,14 +63,16 @@
 </TemplatedDialog>
 
 @code {
-    List<PizzaSpecial>? specials;
-    Order Order => OrderState.Order;
+    List<PizzaSpecial>? specials;  // Lista de pizzas especiales disponibles
+    Order Order => OrderState.Order;  // Obtiene el estado actual del pedido
 
+    // Se ejecuta al cargar la página para obtener la lista de pizzas desde el servidor
     protected override async Task OnInitializedAsync()
     {
         specials = await HttpClient.GetFromJsonAsync<List<PizzaSpecial>>("specials");
     }
 
+    // Método para eliminar una pizza del pedido con una confirmación previa
     async Task RemovePizza(Pizza configuredPizza)
     {
         if (await JS.Confirm($"Remove {configuredPizza.Special?.Name} pizza from the order?"))

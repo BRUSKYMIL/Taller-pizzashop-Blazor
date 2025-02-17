@@ -12,7 +12,6 @@ wwwroot\css\font\quicksand-v8-latin-regular.woff2
 wwwroot\css\site.css
 wwwroot\img\bike.svg
 wwwroot\img\icon-512.png
-wwwroot\img\logo.svg
 wwwroot\img\pizzas\bacon.jpg
 wwwroot\img\pizzas\brit.jpg
 wwwroot\img\pizzas\cheese.jpg
@@ -21,11 +20,11 @@ wwwroot\img\pizzas\meaty.jpg
 wwwroot\img\pizzas\mushroom.jpg
 wwwroot\img\pizzas\pepperoni.jpg
 wwwroot\img\pizzas\salad.jpg
-wwwroot\img\pizzas_luis\bomba.svg
-wwwroot\img\pizzas_luis\kilometrica.svg
-wwwroot\img\pizzas_luis\nutella.svg
-wwwroot\img\pizzas_luis\pizza_humana.svg
-wwwroot\img\pizzas_luis\precongelada.svg
+wwwroot\img\pizzas_luis\bomba.jpeg
+wwwroot\img\pizzas_luis\kilometrica.jpg
+wwwroot\img\pizzas_luis\nutella.jpg
+wwwroot\img\pizzas_luis\pizza_humana.jpeg
+wwwroot\img\pizzas_luis\precongelada.jpg
 wwwroot\img\pizza-slice.svg
 wwwroot\img\user.svg
 wwwroot\index.html
